@@ -1,13 +1,12 @@
 ## Hi, I'm Aicha 
-Currenlty a student at Universidade Federal de Santa Catarina, majoring in computer Engineering,
+Currenlty a student at Universidade Federal de Santa Catarina, majoring in computer engineering.
 
 
 How to reach me:
 
 🔗 [LinkedIn](https://www.linkedin.com/in/aicha-al-rob-054141230/)
 
-📧
-aichaalrob@gmail.com
+📧 aichaalrob@gmail.com
 
 <!--
 **aicha0k/aicha0k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
